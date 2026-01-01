@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of PHRE - Public Health Risk Estimator-1",
+  "description": "A research-grade health-tech application for estimating public health risk using SDOH, lifestyle, and medical indicators with explainable AI and geospatial intelligence.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
